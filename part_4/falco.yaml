@@ -1,0 +1,5 @@
+metrics:
+  enabled: true
+  interval: 5
+  output_file: /var/log/falco_metrics.json
+
